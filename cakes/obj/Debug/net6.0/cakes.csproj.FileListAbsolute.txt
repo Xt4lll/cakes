@@ -1,0 +1,17 @@
+D:\Users\keylo\source\repos\cakes\cakes\bin\Debug\net6.0\cakes.exe
+D:\Users\keylo\source\repos\cakes\cakes\bin\Debug\net6.0\cakes.deps.json
+D:\Users\keylo\source\repos\cakes\cakes\bin\Debug\net6.0\cakes.runtimeconfig.json
+D:\Users\keylo\source\repos\cakes\cakes\bin\Debug\net6.0\cakes.dll
+D:\Users\keylo\source\repos\cakes\cakes\bin\Debug\net6.0\cakes.pdb
+D:\Users\keylo\source\repos\cakes\cakes\obj\Debug\net6.0\cakes.csproj.AssemblyReference.cache
+D:\Users\keylo\source\repos\cakes\cakes\obj\Debug\net6.0\cakes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\keylo\source\repos\cakes\cakes\obj\Debug\net6.0\cakes.AssemblyInfoInputs.cache
+D:\Users\keylo\source\repos\cakes\cakes\obj\Debug\net6.0\cakes.AssemblyInfo.cs
+D:\Users\keylo\source\repos\cakes\cakes\obj\Debug\net6.0\cakes.csproj.CoreCompileInputs.cache
+D:\Users\keylo\source\repos\cakes\cakes\obj\Debug\net6.0\cakes.dll
+D:\Users\keylo\source\repos\cakes\cakes\obj\Debug\net6.0\refint\cakes.dll
+D:\Users\keylo\source\repos\cakes\cakes\obj\Debug\net6.0\cakes.pdb
+D:\Users\keylo\source\repos\cakes\cakes\obj\Debug\net6.0\cakes.genruntimeconfig.cache
+D:\Users\keylo\source\repos\cakes\cakes\obj\Debug\net6.0\ref\cakes.dll
+D:\Users\keylo\source\repos\cakes\cakes\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Users\keylo\source\repos\cakes\cakes\obj\Debug\net6.0\cakes.csproj.CopyComplete
